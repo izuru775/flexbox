@@ -1,0 +1,19 @@
+Flex Container Properties
+
+flex-direction
+flex-wrap
+flex-flow
+justify-content
+align-items
+align-content
+
+Flex Item Properties
+
+order
+flex-grow
+flex-shrink
+flex-basis
+align-self
+
+It is important to understand Main-axis and Cross-axis in flexbox.
+
